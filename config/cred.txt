@@ -1,0 +1,2 @@
+user = snackattack
+pw = 12345
